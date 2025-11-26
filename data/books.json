@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Science Fiction",
+      "price": "14.99",
+      "publisher": "Chilton Books"
+    },
+    {
+      "id": "2",
+      "name": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "price": "9.99",
+      "publisher": "Secker & Warburg"
+    },
+    {
+      "id": "3",
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "genre": "Comedy Sci-Fi",
+      "price": "11.50",
+      "publisher": "Pan Books"
+    },
+    {
+      "id": "4",
+      "name": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Classic",
+      "price": "8.75",
+      "publisher": "T. Egerton, Whitehall"
+    }
+  ]
+}

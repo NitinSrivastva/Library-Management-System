@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alex",
+      "surname": "Johnson",
+      "email": "alex.j@email.com",
+      "issuedBook": "101",
+      "issuedDate": "15/11/2025",
+      "returnDate": "15/12/2025",
+      "subscriptionType": "Premium",
+      "subscriptionDate": "15/11/2025"
+    },
+    {
+      "id": "2",
+      "name": "Maria",
+      "surname": "Garcia",
+      "email": "maria.g@email.com",
+      "issuedBook": "205",
+      "issuedDate": "01/10/2025",
+      "returnDate": "01/11/2025",
+      "subscriptionType": "Basic",
+      "subscriptionDate": "01/10/2025"
+    },
+    {
+      "id": "3",
+      "name": "Chris",
+      "surname": "Lee",
+      "email": "chris.l@email.com",
+      "issuedBook": "350",
+      "issuedDate": "20/09/2025",
+      "subscriptionType": "Basic",
+      "subscriptionDate": "20/09/2025"
+    }
+  ]
+}

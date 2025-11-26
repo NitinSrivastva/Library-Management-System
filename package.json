@@ -1,0 +1,27 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "This is the library management API Backend for the management of users and the books",
+  "homepage": "https://github.com/NitinSrivastva/Library-Management-System#readme",
+  "bugs": {
+    "url": "https://github.com/NitinSrivastva/Library-Management-System/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitinSrivastva/Library-Management-System.git"
+  },
+  "license": "ISC",
+  "author": "Nitin Raj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
