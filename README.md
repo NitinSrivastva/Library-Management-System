@@ -15,9 +15,9 @@ DELETE: Deleting a user by their ID (Check if the user still has an issued book)
 
 ## /users/subscription-details/{id}
 GET: Get a user subscription details by their ID 
-    Date of subscription
-    Valid till ?
-    Fine if any ?
+    >> Date of subscription
+    >> Valid till ?
+    >> Fine if any ?
 
 
 
@@ -42,9 +42,9 @@ GET: Get all the issued books with their fine amount
     >> Standard Subscription(6 months)
     >> Premium Subscription (12 months)
 
- If a user missed the renewal date, then user should collected with $100
- If a user missed his subscription, then user is expected to pay $100
- If a user missed both renewal & subscription, then the collected amount should be $200
+    >> If a user missed the renewal date, then user should collected with $100
+    >> If a user missed his subscription, then user is expected to pay $100
+    >> If a user missed both renewal & subscription, then the collected amount should be $200
 
 ## Command
 npm init
