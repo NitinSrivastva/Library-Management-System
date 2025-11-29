@@ -29,8 +29,17 @@
       "email": "chris.l@email.com",
       "issuedBook": "350",
       "issuedDate": "20/09/2025",
+      "returnDate": "20/10/2025",
       "subscriptionType": "Basic",
       "subscriptionDate": "20/09/2025"
+    },
+    {
+      "id": "4",
+      "name": "Sarah",
+      "surname": "Connor",
+      "email": "sarah.connor@email.com",
+      "subscriptionType": "Premium",
+      "subscriptionDate": "01/09/2025"
     }
   ]
 }
